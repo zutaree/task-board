@@ -14,3 +14,11 @@ body {
 .task-card:hover {
   cursor: grab;
 }
+
+.text-danger {
+  color: red;
+}
+
+.text-warning {
+  color: yellow;
+}
